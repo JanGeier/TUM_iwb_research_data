@@ -6,7 +6,7 @@ Jan Geier (jan.geier@iwb.tum.de)
 
 ## Documentation
 The description of the different folders can be found here: 
-### Effects of Industrial Energy Flexibility Measures on Corporate Sustainability Reporting KPIs: 
+### Sambale et al: 
 This contribution to the ISIEA 2025 Conference describes a methodology to assess the effects of Industrial Energy Flexibility Measures on relevant Key Performance Indexes that companies need to report under the CSRD juristiction, by following the ESRS-requirements. For more information, please read the contribution: (reference will be added as soon as possible)
 
 ## Citation
